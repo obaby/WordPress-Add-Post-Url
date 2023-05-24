@@ -1,0 +1,12 @@
+<div>    
+<fieldset style="border: 1px dashed #008cff;padding: 10px;border-radius: 5px;line-height: 2em;color: #6d6d6d; word-wrap: break-word;white-space : normal" >
+<legend style=" width: 30%;  text-align: center;  background-color: #008cff;  border-radius: 5px; background-image: linear-gradient(to right, #FFCC99, #FF99CC); text-align:center;" >☆文章版权声明☆</legend>
+<span class="btn-info btn-xs">*</span> 网站名称：<span style="color: 3333ff"><span style="color: #09ace2; font-size: 18px"><strong><a  style="color: 3333ff" href="%site_url%">%site_name%</a></strong></span></span>   
+ <span class="btn-info btn-xs">*</span> 网址：<font color="#09ace2"><a   style="color: 3333ff" href="%site_url%">%site_url%</a></font>
+ <span class="btn-info btn-xs">*</span> 个性：<font color="#09ace2"><a   style="color: 3333ff" href="http://oba.by/">http://oba.by/</a></font>
+  <span class="btn-info btn-xs">*</span> 本文标题： <a href="%post_url%">《%post_title%》</a>    
+<span class="btn-info btn-xs">*</span> 本文链接：<a href="%post_url%">%post_url%</a>    
+<span class="btn-info btn-xs">*</span> 短链接：<a href="http://oba.by/?p=%post_id%">http://oba.by/?p=%post_id%</a>    
+<span class="btn-info btn-xs">*</span><font color="#ff0000"> 转载文章请标明文章来源，原文标题以及原文链接。请遵从<a href="https://creativecommons.org/licenses/by-nc-sa/2.5/cn/"> 《署名-非商业性使用-相同方式共享 2.5 中国大陆 (CC BY-NC-SA 2.5 CN) 》</a>许可协议。</font><br />    </fieldset>  
+</div>
+<hr>
